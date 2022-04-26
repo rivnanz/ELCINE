@@ -10,5 +10,5 @@ package Bar;
  * @author ferri
  */
 public class Main {
-    
+    public
 }
